@@ -2,4 +2,4 @@
 
 Slide deck for EDF5442 Module 4: Surveys & Tests (Spring 2024)
 
-![](img/planning.png)
+![](img/survey.png)
